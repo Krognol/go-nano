@@ -1,5 +1,5 @@
 # go-nano
-golang implementation of nano
+golang implementation of [nano](https://gitlab.com/crescentrose/nano/tree/master)
 
 # Installation
 First you have to get [gorram](https://github.com/natefinch/gorram) as the plugin system requires it.
