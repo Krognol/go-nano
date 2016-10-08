@@ -1,0 +1,30 @@
+{
+    "clientid": "234050448816996363",
+    "token": "MjM0MDUwNDQ4ODE2OTk2MzYz.CtnIhw.bogIakXQ1tzVAyE_UfDrPf52hmw",
+    "owner": "95957677376540672",
+    "prefix": "nano ",
+    "plugins": [
+        {
+            "functions": [
+                {
+                    "package": "dice",
+                    "name": "D6",
+                    "alias": "d6",
+                    "info": "rolls a regular dice"
+                },
+                {
+                    "package": "dice",
+                    "name": "Roll",
+                    "alias": "roll",
+                    "info": "rolls a random number between 0 and n"
+                },
+                {
+                    "package": "test",
+                    "name": "Test",
+                    "alias": "test",
+                    "info": "test"
+                }
+            ]
+        }
+    ]
+}
